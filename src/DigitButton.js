@@ -1,4 +1,4 @@
-import { ACTIONS } from "./App"
+import { ACTIONS } from "./reducer"
 
 
 export default function DigitButton({ dispatch, digit }) {
